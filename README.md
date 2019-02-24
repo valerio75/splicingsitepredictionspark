@@ -1,9 +1,9 @@
 
 # Splicing Site Prediction using Apache Spark
-
 ## Notebook Info
 This notebook shows the use of Apache Spark's MLLib to address the problem of Splicing Site Prediction.
-Author: Valerio Morfino [Linkedin page](https://www.linkedin.com/in/valerio-morfino/)
+## Author Info
+Valerio Morfino [Linkedin page](https://www.linkedin.com/in/valerio-morfino/)
 
 ## Notebook Prerequisites
 Prerequisites: 
