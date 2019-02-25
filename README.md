@@ -1,5 +1,5 @@
 
-# Splicing Site Prediction using Apache Spark
+# DNA Splicing Site Prediction using Apache Spark
 ## Notebook Info
 This notebook shows the use of Apache Spark's MLLib to address the problem of Splicing Site Prediction.
 ## Author Info
